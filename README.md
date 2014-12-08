@@ -21,7 +21,7 @@ SessionInfo contains key attributes like id (session id), clientId, clientSecret
       userId: 'unique-user-id', // ideally this comes from the user context
       firstName: 'John', // ideally this comes from the user context
       lastName: 'Smith' // ideally this comes from the user context
-    }
+    }```
 
 ### Chat
 `<moxtra-chat container-id="my-chat-container" text="Chat" frame-width="100%" frame-height="100%" session-info="sessionInfo" email="jayanth.ankareddi@aptaracorp.com"> </moxtra-chat>`
